@@ -13,7 +13,7 @@
 - Member 3: Fathima Femin k k -  St.Joseph college Devagiri
   
 ### Hosted Link
-https://nannavado-project.vercel.app/
+https://nannavado.netlify.app/
 
 ### Project Description
 This project predicts user emotions through a series of targeted questions and captures their image for further analysis.
