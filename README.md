@@ -4,7 +4,7 @@
 
 
 ## Basic Details
-### Team Name: Hike
+### Team Name:Hike
 
 
 ### Team Members
